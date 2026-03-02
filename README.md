@@ -70,7 +70,7 @@ Afterwards perform [post-installation steps](https://docs.docker.com/engine/inst
 Next, let's clone the `huly-selfhost` repository and configure Huly.
 
 ```bash
-git clone https://github.com/hcengineering/huly-selfhost.git
+git clone https://github.com/spotlesscoder/huly-selfhost.git
 cd huly-selfhost
 ./setup.sh
 ```
