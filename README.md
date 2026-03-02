@@ -32,7 +32,7 @@ For detailed information about the Huly self-hosted architecture, services, and 
 For fast local verification without going through the full setup process:
 
 ```bash
-git clone https://github.com/hcengineering/huly-selfhost.git
+git clone https://github.com/spotlesscoder/huly-selfhost.git
 cd huly-selfhost
 ./setup.sh --quick
 ```
